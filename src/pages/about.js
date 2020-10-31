@@ -41,7 +41,7 @@ const About = props => {
             </div>
             <div className={aboutStyle.iconos}>
               <i className="fas fa-graduation-cap fa-sm"></i>
-              <p>APOLLON University of Health Management</p>
+              <p>APOLLON University</p>
             </div>
             <div className={aboutStyle.iconos}>
               <i className="fas fa-code fa-sm"></i>
